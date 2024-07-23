@@ -10,7 +10,4 @@
 - 【20240712】Won the Excellent camper of summercamp of [pkurw](https://www.ss.pku.edu.cn/)🎉🎉
 - 【2024xxxx】Looking for a Intern in MLLM/LLM ...
 
-<div  align="center">
-<img src="[https://github.com/AL-377/AL-377/blob/main/me.gif](https://github.com/Jse-NGV/Jse-NGV/blob/main/profile.png)">  
-</div>
 
