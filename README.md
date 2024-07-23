@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I am Wolong Shu ,  a passionate coder
 
-<!--
-**Jse-NGV/Jse-NGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✌ Graduated from Northwestern Polytechnical University (NWPU), majored in Software Engineering (bachelor)
+- ⏰ A postgraduate in Peking University (PKU).
+- 👀 Interested in MLLM, LLM.
+- 💞️ Looking for like-minded partners who'd like to do research in MLLM/LLM. 
+- 📫 How to reach me -- 2021303044@mail.nwpu.edu.cn
 
-Here are some ideas to get you started:
+### State 📰
+- 【20240712】Won the Excellent camper of summercamp of [pkurw](https://www.ss.pku.edu.cn/)🎉🎉
+- 【2024xxxx】Looking for a Intern in MLLM/LLM ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div  align="center">
+<img src="https://github.com/AL-377/AL-377/blob/main/me.gif">  
+</div>
+
