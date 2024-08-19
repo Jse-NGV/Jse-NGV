@@ -8,6 +8,7 @@
 
 ### State 📰
 - 【20240712】Won the Excellent camper of summercamp of [pkurw](https://www.ss.pku.edu.cn/)🎉🎉
-- 【2024xxxx】Looking for a Intern in MLLM/LLM ...
+- 【202407xx】Looking for a Intern in MLLM/LLM ...
+- 【20240820】Finish a Tiny_Transformer from 0 to 1. [tiny_transformer](https://github.com/Jse-NGV/Tiny_Transformer)
 
 
