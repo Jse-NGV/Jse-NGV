@@ -1,6 +1,7 @@
 ## Hi 👋 I am Jserw ,  a passionate coder
 
 - ✌ NWPU SE Bachelor, PKU SE Master.
+- 📕 Hoping to be a creative, powerful coder.
 - 👀 Interested in MLLM, LLM, AI Infra.
 - 💞️ Looking for like-minded partners who'd like to do research in MLLM/LLM. 
 - 📫 How to reach me -- 2021303044@mail.nwpu.edu.cn
