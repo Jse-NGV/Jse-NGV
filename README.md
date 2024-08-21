@@ -1,8 +1,7 @@
 ## Hi 👋 I am Jserw ,  a passionate coder
 
-- ✌ Graduated from Northwestern Polytechnical University (NWPU), majored in Software Engineering (bachelor)
-- ⏰ A postgraduate in Peking University (PKU).
-- 👀 Interested in MLLM, LLM.
+- ✌ NWPU SE Bachelor, PKU SE Master.
+- 👀 Interested in MLLM, LLM, AI Infra.
 - 💞️ Looking for like-minded partners who'd like to do research in MLLM/LLM. 
 - 📫 How to reach me -- 2021303044@mail.nwpu.edu.cn
 
