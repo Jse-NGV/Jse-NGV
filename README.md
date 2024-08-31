@@ -10,5 +10,6 @@
 - 【20240712】Won the Excellent camper of summercamp of [pkurw](https://www.ss.pku.edu.cn/)🎉🎉
 - 【202407xx】Looking for a Intern in MLLM/LLM ...
 - 【20240820】Finish a Tiny_Transformer from 0 to 1. [tiny_transformer](https://github.com/Jse-NGV/Tiny_Transformer)
+- 【20240831】Finish a TinyLLM from 0 to 1. [TinyLLM](https://github.com/Jse-NGV/TinyLLM)
 
 
