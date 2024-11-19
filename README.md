@@ -2,7 +2,7 @@
 
 - ✌ NWPU SE Bachelor, PKU SE Master.
 - 📕 Hoping to be a creative, powerful coder.
-- 👀 Interested in MLLM, AI Infra.
+- 👀 Interested in MLLM, Model Architecture, Model Compression & Inference Acceleration.
 - 💞️ Looking for like-minded partners who'd like to do research in MLLM. 
 - 📫 How to reach me -- 2021303044@mail.nwpu.edu.cn
 
